@@ -7,6 +7,6 @@ export class AppService {
   };
 
   getNewHello(): string {
-    return 'this is my first ever written controller in the nestJS with the typescirpt';
+    return 'just for the comment history of nestjs';
   };
 }
